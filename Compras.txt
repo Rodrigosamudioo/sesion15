@@ -1,0 +1,1 @@
+codigoCompras,nombreProducto,DescripcionProducto,Precio6,trwf,rggf,gge
